@@ -69,7 +69,7 @@ Los módulos son colecciones de funciones que puedes utilizar desde tus programa
 ### Laboratorio 6: Pandas [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/EPN_Programacion.git/main?labpath=/ejercicios/numpy.ipynb)
 
 
-# Módulo 7 - Curso Matemáticas
+# Módulo 7 - Matemáticas
 
 <p align="justify">
 Puede utilizar este enlace para acceder al Curso de Matemáticas utilizando Python
