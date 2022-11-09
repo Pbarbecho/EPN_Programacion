@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="200" src="images/logo.png">
+  <img width="180" height="120" src="images/logo.png">
 </p>
 
 <h1 align="center">Introducción a Programación</h1>
