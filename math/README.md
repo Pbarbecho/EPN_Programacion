@@ -1,8 +1,3 @@
-<p align="left">
-  <img width="180" height="110" src="../images/logo.png">
-</p>
-
-
 # Módulo 1 - Teoría de Conjuntos
 <p align="justify">
 En este Módulo veremos aspectos relacionados con la Teoría de Conjuntos. Veremos definición de conjuntos, propiedades de los conjuntos, cardinalidad, operaciones entre conjuntos, etc. 
